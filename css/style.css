@@ -1,0 +1,160 @@
+* { padding: 0px;
+	margin: 0px;
+	
+
+	font-family: 'PT Sans Caption', sans-serif;
+
+ /* font-family: 'Rubik Mono One', sans-serif;
+font-family: 'PT Sans Caption', sans-serif;
+font-family: 'Righteous', cursive;
+*/
+}
+
+
+div {
+	box-sizing: border-box;
+
+
+}
+
+
+header {
+background: url(../img/head1.png) no-repeat center top / cover;
+height: 350px;
+	padding-top:50px;
+	border: 0px double blue; 
+
+}
+
+.bold{
+font-weight: bold;
+
+}
+
+.hamburg {
+  border: 0px double red; 
+  height: 100px;
+ position: fixed;
+  top: 2%; 
+  left: 11%; 
+  
+  justify-content: center;
+  align-items: center;
+}
+
+
+.container1 {
+text-align-last: center;
+text-align:center;
+width: 80%;
+margin: auto;
+display: block;
+border: 0px double green; 
+
+}
+
+
+
+
+.lable {
+	margin: 60px;
+
+width: 500px;
+height: 200px;
+ border: 0px double red; 
+color: white;
+font-size: 20px;
+
+
+
+}
+
+
+.lable span {
+color: #2cafde;
+
+
+}
+
+
+.photo {
+width: 200px;
+height: 400px;
+
+
+}
+
+
+.left_con {
+	text-align: center;
+	padding: 20px;
+margin: 50px;
+width: 650px;
+height: 350px;
+background-color: rgba(44, 175, 222, 0.1);
+position: relative;
+font-size: 20px;
+border: 0px double blue; 
+display: inline-block;
+overflow:hidden;
+
+-webkit-box-shadow: 3px 5px 5px 0px rgba(23, 109, 156, 0.4);
+-moz-box-shadow: 3px 5px 5px 0px rgba(23, 109, 156,  0.4);
+box-shadow: 3px 5px 5px 0px rgba(23, 109, 156, 0.4);
+
+
+
+}
+
+.right_con {
+	background-color: rgba(44, 175, 222, 0.1);
+	margin: 50px;
+	padding: 30px;
+	text-align: center;
+display: inline-block;
+width: 300px;
+height: 350px;
+position: relative;
+
+font-size: 20px;
+ border: 0px double red; 
+overflow:hidden;
+
+-webkit-box-shadow: 3px 5px 5px 0px rgba(23, 109, 156, 0.4);
+-moz-box-shadow: 3px 5px 5px 0px rgba(23, 109, 156,  0.4);
+box-shadow: 3px 5px 5px 0px rgba(23, 109, 156, 0.4);
+
+}
+
+
+
+.container2 {
+height: 450px;
+background: url(../img/air.jpg) no-repeat center center / cover; 
+text-align: center;
+
+
+
+}
+
+.centr_con{
+background-color: rgba(255, 255, 255, 0.7);
+	margin: 50px;
+	padding: 30px;
+	text-align: center;
+display: inline-block;
+width: 1000px;
+height: 350px;
+position: relative;
+
+font-size: 20px;
+ border: 0px double red; 
+overflow:hidden;
+
+-webkit-box-shadow: 3px 5px 5px 0px rgba(0,0, 0, 0.3);
+-moz-box-shadow: 3px 5px 5px 0px rgba(0,0, 0, 0.3);
+box-shadow: 3px 5px 5px 0px rgba(0,0, 0, 0.3);
+
+
+
+}
